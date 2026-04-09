@@ -1,4 +1,4 @@
-baseURL = "https://rules.fcjuni.com"
+baseURL = "https://hn-rules.fcjuni.com/"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "vi"
